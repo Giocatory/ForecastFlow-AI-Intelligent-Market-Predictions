@@ -1,0 +1,6 @@
+streamlit
+autots
+pandas
+numpy
+tensorflow
+plotly
